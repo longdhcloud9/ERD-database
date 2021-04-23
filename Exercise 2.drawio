@@ -1,6 +1,6 @@
 <mxfile>
     <diagram id="CekpWcot58THP08m-kE-" name="Page-1">
-        <mxGraphModel dx="67" dy="1740" grid="0" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#33FF99" math="0" shadow="0">
+        <mxGraphModel dx="295" dy="1740" grid="0" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#33FF99" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -359,6 +359,12 @@
                 </mxCell>
                 <mxCell id="37" value="Brand" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;fontSize=13;" parent="1" vertex="1">
                     <mxGeometry x="1432" y="-961" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="Mechanic's name" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="1769.5" y="-176" width="127.5" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="Part's name" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=1;fontSize=13;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="1120" y="-241" width="117" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
