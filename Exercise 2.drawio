@@ -1,6 +1,6 @@
 <mxfile>
     <diagram id="CekpWcot58THP08m-kE-" name="Page-1">
-        <mxGraphModel dx="175" dy="1693" grid="0" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#00FFFF" math="0" shadow="0">
+        <mxGraphModel dx="350" dy="1767" grid="0" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#00FFFF" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -127,7 +127,7 @@
                 <mxCell id="aqiyoFAsDoG5rErbGTqA-130" value="Invoice ID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=1;fontSize=13;" parent="aqiyoFAsDoG5rErbGTqA-128" vertex="1">
                     <mxGeometry x="30" width="150" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="aqiyoFAsDoG5rErbGTqA-133" value="Invoiced for selling car" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;shadow=0;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;swimlaneFillColor=#0066CC;rounded=1;fontSize=13;" parent="1" vertex="1">
+                <mxCell id="aqiyoFAsDoG5rErbGTqA-133" value="Invoice for selling car" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;shadow=0;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;swimlaneFillColor=#0066CC;rounded=1;fontSize=13;" parent="1" vertex="1">
                     <mxGeometry x="1385" y="-742" width="180" height="211" as="geometry">
                         <mxRectangle x="1385" y="-742" width="80" height="30" as="alternateBounds"/>
                     </mxGeometry>
